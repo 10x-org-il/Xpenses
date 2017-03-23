@@ -1,6 +1,6 @@
 # Xpenses
 
-## Quickstart 🚀🚀🚀
+## 🚀🚀🚀 Quickstart 🚀🚀🚀
 
     mkvirtualenv xenv
     git clone https://github.com/nonZero/Xpenses.git
